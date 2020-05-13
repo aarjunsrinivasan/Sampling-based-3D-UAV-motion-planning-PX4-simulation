@@ -31,7 +31,7 @@ For PX4
 
 Create a ROS package and run this python file missionfly2.py
 
-![](Animated GIF-source.gif)
+![](https://giphy.com/gifs/h5pW81aPxL2qe4YBNw/html5)
 
 
 
