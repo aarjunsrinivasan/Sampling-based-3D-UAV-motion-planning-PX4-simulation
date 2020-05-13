@@ -31,7 +31,7 @@ For PX4
 
 Create a ROS package and run this python file missionfly2.py
 
-![](https://giphy.com/gifs/h5pW81aPxL2qe4YBNw/html5)
+![PX4 simulation](https://giphy.com/gifs/h5pW81aPxL2qe4YBNw/html5)
 
 
 
