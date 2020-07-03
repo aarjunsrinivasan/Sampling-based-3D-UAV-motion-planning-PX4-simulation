@@ -41,7 +41,8 @@ Download  and source this script ->https://raw.githubusercontent.com/PX4/Devguid
 git clone https://github.com/PX4/Firmware.git
 ```
 To launch PX4->       
-```                     cd <Firmware_clone>
+```                     
+                        cd <Firmware_clone>
 			make posix_sitl_default gazebo
 			source ~/catkin_ws/devel/setup.bash    // (optional)
 			source Tools/setup_gazebo.bash $(pwd) $(pwd)/build/posix_sitl_default
