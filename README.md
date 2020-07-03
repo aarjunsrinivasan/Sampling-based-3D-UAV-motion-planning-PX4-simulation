@@ -2,7 +2,17 @@
 
 The aim of our project is to implement the path planning algorithm presented in the paper “RRT-based 3D Path Planning for Formation Landing of Quadrotor UAVs” 
 and upgrade the path planning algorithm to an optimised RRT* algorithm and simulate the Quadrotor motion in Gazebo using ROS 
+
+## Simulation Demo
+
 ![Visualisation](/Results/GAzebo-simulation-without-prunin.gif)
+
+
+## Authors
+
+- [Arjun Srinivasan](https://github.com/aarjunsrinivasan)
+- [Pradeep](https://github.com/Pradeep-Gopal)
+
 
 ## Installation
 
